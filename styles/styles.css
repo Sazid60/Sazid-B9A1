@@ -274,6 +274,7 @@
     max-width: 1320px;
     margin-inline: auto;
     text-align: center;
+    margin-bottom: 55px;
 }
 
 .holiday-container-content h3 {
@@ -305,3 +306,51 @@
     font-weight: 500;
     line-height: 32px;
 }
+.all-img-container{
+    
+}
+.red-bottom{
+position:absolute;
+bottom:0;
+left:0;
+right:0;
+}
+.image-placement{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    max-width: 1320px;
+    margin-inline: auto;
+}
+.image-placement img{
+    position:absolute;
+}
+.red-carpet {
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.gift-box {
+    left:70px;
+    bottom: 50px;
+    width: 700px;
+}
+
+.discount-girl-container {
+    position: absolute;
+    right: 429px;
+    bottom: 662px;
+}
+.two-image-container {
+    position: relative;
+}
+.discount {
+    position: absolute;
+    left: -111px;
+    width: 270px;
+    top: 90px;
+}
+
+
+
+
