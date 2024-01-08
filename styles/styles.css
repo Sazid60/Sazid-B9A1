@@ -457,10 +457,12 @@
     padding-left: 174px;
     padding-right: 174px;
 }
-.all-button{
-    display:flex;
+
+.all-button {
+    display: flex;
     padding: 0 450px;
 }
+
 .email-input {
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
@@ -480,4 +482,60 @@
     color: #FFF;
     font-family: Inter;
     font-weight: 600;
+}
+/* Footer Section */
+.end-section {
+    background-color:black;
+}
+.end-section hr{
+    margin:0 130px;
+}
+.footer-control {
+    width: 100%;
+    max-width: 1320px;
+    margin-inline: auto;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 98px;
+}
+.contact-icon{
+margin-top: 18px;
+margin-bottom: 18px;
+}
+.mother-div {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+
+.mother-div p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.div-right-top {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+.div-left-top p{
+    width:375px;
+}
+.footer-end {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.footer-end p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
