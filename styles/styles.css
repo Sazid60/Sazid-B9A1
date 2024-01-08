@@ -183,7 +183,7 @@
 .upcoming-content {
     display: flex;
     gap: 57.4px;
-    /* align-items: center; */
+    align-items: center;
     width: 100%;
     max-width: 1320px;
     margin-inline: auto;
