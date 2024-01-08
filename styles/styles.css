@@ -230,6 +230,11 @@ padding-top: 0px;
     border-radius: 379px;
     border: 12.3px solid #F00;
 }
+.center-img-sizing{
+    height:340px;
+    border-radius: 379px;
+    border: 12.3px solid rgb(255, 255, 255);
+}
 
 .upcoming-right{
     padding-top: 109px;
