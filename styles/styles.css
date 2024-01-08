@@ -54,7 +54,7 @@
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    padding-bottom: 41px;;
+    padding-bottom: 41px;
 }
 
 .offer-greetings {
@@ -77,4 +77,56 @@
     font-weight: 700;
     line-height: normal;
     padding-bottom: 48px;
+}
+
+.party-section {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    background: cover;
+    border-radius: 16px;
+    width: 100%;
+    max-width: 1320px;
+    height: 600px;
+    margin-left: 114px;
+    margin-right: 114px;
+    margin-top: 41px;
+    margin-bottom: 99px;
+}
+.party-secton-grouping{
+    display: flex;
+    align-items: center;
+}
+.party-section h1 {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 72px;
+    letter-spacing: 7.04px;
+    padding-top: 103px;
+    padding-left: 103px;
+}
+.party-section p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 103px;
+}
+.party-section-img{
+padding:55px 161px;
+}
+.party-section h6{
+color: #FFF;
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+margin-top: 39px;
+margin-left: 129px;
 }
