@@ -188,9 +188,11 @@
     max-width: 1320px;
     margin-inline: auto;
 }
-.upcoming-left{
+
+.upcoming-left {
     padding-top: 88px;
 }
+
 .upcoming-left h3 {
     color: #F00;
     text-align: left;
@@ -221,25 +223,29 @@
     max-width: 322px;
 }
 
-.upcoming-center{
-padding-left: 97.58px;
-padding-top: 0px;
+.upcoming-center {
+    padding-left: 97.58px;
+    padding-top: 0px;
+    margin-bottom: 120px;
 }
+
 .center-img {
-    height:364px;
+    height: 364px;
     border-radius: 379px;
     border: 12.3px solid #F00;
 }
-.center-img-sizing{
-    height:340px;
+
+.center-img-sizing {
+    height: 340px;
     border-radius: 379px;
     border: 12.3px solid rgb(255, 255, 255);
 }
 
-.upcoming-right{
+.upcoming-right {
     padding-top: 109px;
-    padding-left:90px;
+    padding-left: 90px;
 }
+
 .upcoming-right p {
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
@@ -247,10 +253,10 @@ padding-top: 0px;
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
-    width:226.32px;
-    height:78.72px;
+    width: 226.32px;
+    height: 78.72px;
     padding-bottom: 43px;
-    
+
 }
 
 .upcoming-right h1 {
@@ -261,4 +267,41 @@ padding-top: 0px;
     font-weight: 700;
     line-height: normal;
     padding-bottom: 16px;
+}
+
+.holiday-container {
+    width: 100%;
+    max-width: 1320px;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.holiday-container-content h3 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 13px;
+}
+
+.holiday-container-content h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 59px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding-bottom: 22px;
+}
+
+.holiday-container-content p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
 }
